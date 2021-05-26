@@ -1,3 +1,3 @@
 # Study
 
-Study is project to make crypo payment possibl in the learning space.
+Study is a project to make crypo payment possible in the learning space.
